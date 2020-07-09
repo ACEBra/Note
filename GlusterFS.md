@@ -1,10 +1,10 @@
 
 A tool to control WorkloadWisdom.
 1. [Installation](#Installation)
-2. [prepare bricks](#prepare bricks)
-3. [create cluster](#create cluster)
-4. [create volume](#create volume)
-5. [start volume](#start volume)
+2. [prepare bricks](#prepare-bricks)
+3. [create cluster](#create-cluster)
+4. [create volume](#create-volume)
+5. [start volume](#start-volume)
 5. [Troubleshooting](#Troubleshooting)
 
 # Installation
